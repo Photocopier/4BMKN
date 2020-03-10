@@ -1,5 +1,4 @@
 ﻿unit Unit1;
-//хрень ваш гиткола
 {$mode objfpc}{$H+}
 
 interface
